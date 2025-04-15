@@ -39,8 +39,8 @@ Users should be able to:
 
 ### 🔗 Links
 
-- 🛠️ [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-four-card-feature-grid-using-css-grid-and-media-queries-XXXXX)
-- 🌐 [Live Site URL](https://yourusername.github.io/four-card-feature-section/)
+- 🛠️ [Solution on Github](https://github.com/Michael-Okorie/Four-Card-Feature-Section.git)
+- 🌐 [Live Site URL](https://michael-okorie.github.io/Four-Card-Feature-Section/)
 
 ---
 
